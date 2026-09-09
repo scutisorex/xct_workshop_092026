@@ -3,7 +3,7 @@
 Hi everybody, and welcome to the main page for our 3DSlicer workshop! Thanks for joining me to learn about how to make the most of your CT data using open-source tools.
 
 <p align = "center">
-<img src="images/Toly_section.png">
+<img src="images/BATSKULL.png">
 </p>
 
 ## Learning objectives:
