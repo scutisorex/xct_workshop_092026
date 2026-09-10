@@ -1,6 +1,6 @@
 # XCT PROCESSING WORKSHOP - SEPTEMBER 2026 
 
-Hi everybody, and welcome to the main page for our 3DSlicer workshop! Thanks for joining me to learn about how to make the most of your CT data using open-source tools.
+Hi everybody, and welcome to the main page for our XCT workshop! Thanks for joining me to learn about how to make the most of your CT data using open-source tools.
 
 <p align = "center">
 <img src="images/BATSKULL.png">
